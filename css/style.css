@@ -774,7 +774,7 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
     transform: rotate(0deg);
   }
   100% {
-    -webkit-transform: rotate(0deg);
+    -webkit-transform: rotate(36deg);
     transform: rotate(0deg);
   }
 }
@@ -785,7 +785,7 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
     transform: rotate(0deg);
   }
   100% {
-    -webkit-transform: rotate(0deg);
+    -webkit-transform: rotate(36deg);
     transform: rotate(0deg);
   }
 }
@@ -796,8 +796,8 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
     transform: rotate(0deg);
   }
   100% {
-    -webkit-transform: rotate(36deg);
-    transform: rotate(36deg);
+    -webkit-transform: rotate(58deg);
+    transform: rotate(58deg);
   }
 }
 
@@ -807,8 +807,8 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
     transform: rotate(0deg);
   }
   100% {
-    -webkit-transform: rotate(36deg);
-    transform: rotate(36deg);
+    -webkit-transform: rotate(58deg);
+    transform: rotate(58deg);
   }
 }
 
@@ -840,8 +840,8 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
     transform: rotate(0deg);
   }
   100% {
-    -webkit-transform: rotate(54deg);
-    transform: rotate(54deg);
+    -webkit-transform: rotate(65deg);
+    transform: rotate(65deg);
   }
 }
 
@@ -851,8 +851,8 @@ header .colorlib-navbar-brand .colorlib-logo:focus {
     transform: rotate(0deg);
   }
   100% {
-    -webkit-transform: rotate(54deg);
-    transform: rotate(54deg);
+    -webkit-transform: rotate(65deg);
+    transform: rotate(65deg);
   }
 }
 
@@ -1730,4 +1730,3 @@ input[type="text"] {
   height: 11px;
   opacity: 0.5;
 }
-

@@ -236,6 +236,8 @@
 		owlCarouselFeatureSlide();
 		customCarousel('#myCarousel');
 		customCarousel('#myCarousel2');
+		customCarousel('#sirhCarousel');
+		customCarousel('#scolariteCarousel');
 	});
 
 }());
